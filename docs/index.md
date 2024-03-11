@@ -2,7 +2,7 @@
 toc: false
 ---
 
-# Hello, Tokyo Local
+# Hello, Tokyo Local by @mapconcierge
 
 ```html
 <link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet" />
